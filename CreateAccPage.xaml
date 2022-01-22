@@ -1,0 +1,35 @@
+﻿<Page x:Class="WpfApp.CreateAccPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Регистрация">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <TextBlock Style="{StaticResource Txb}">Введите имя:</TextBlock>
+                <TextBox x:Name="Txb_Name"  Style="{StaticResource Txbox}"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,0,0"  Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <TextBlock Style="{StaticResource Txb}">Введите логин:</TextBlock>
+                <TextBox x:Name="Txb_Login"  Style="{StaticResource Txbox}"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,0,0"  Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <TextBlock Style="{StaticResource Txb}">Введите пароль:</TextBlock>
+                <TextBox x:Name="Txb_Password"  Style="{StaticResource Txbox}"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,0,0"  Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <PasswordBox x:Name="Psb_Password"  Width="150" FontSize="24" PasswordChanged="PasswordBox_PasswordChanged"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="Btn_CreateAcc" Style="{StaticResource Btn_auto}" Click="Btn_CreateAcc_Click">Создать</Button>
+                <Button x:Name="Btn_Back" Style="{StaticResource Btn_auto}" Click="Btn_Back_Click">Назад</Button>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</Page>

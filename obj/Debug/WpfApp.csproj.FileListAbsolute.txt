@@ -1,0 +1,126 @@
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\Auto.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\Auto.baml
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\movic\Desktop\WpfApp\WpfApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\CreateAccPage.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\CreateAccPage.baml
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.g.cs
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\movic\Desktop\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.baml
+G:\Готово\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+G:\Готово\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+G:\Готово\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+G:\Готово\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+G:\Готово\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+G:\Готово\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+G:\Готово\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+G:\Готово\WpfApp\WpfApp\bin\Debug\ru\EntityFramework.resources.dll
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+G:\Готово\WpfApp\WpfApp\obj\Debug\Auto.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\CreateAccPage.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\App.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+G:\Готово\WpfApp\WpfApp\obj\Debug\App.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\Auto.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\CreateAccPage.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.baml
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+G:\Готово\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\Auto.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\CreateAccPage.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\Auto.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\CreateAccPage.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.baml
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Admin\OneDrive\Рабочий стол\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\Auto.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\CreateAccPage.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\Auto.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\CreateAccPage.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\PageStudent\PageAccountStudent.baml
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Пользователь\Desktop\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
